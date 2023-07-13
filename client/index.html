@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="build_render"></div>
+    <div class="output"></div>
+    <div style="display: flex;justify-content: space-around;">
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="stealth" data-param="stealth" min="0" max="1" step="0.01" value="0">
+            <label for="stealth">stealth</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="chase" data-param="chase" min="0" max="1" step="0.01" value="0">
+            <label for="chase">chase</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="heal" data-param="heal" min="0" max="1" step="0.01" value="0">
+            <label for="heal">heal</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="aura" data-param="aura" min="0" max="1" step="0.01" value="0">
+            <label for="aura">aura</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="repair" data-param="repair" min="0" max="1" step="0.01" value="0">
+            <label for="repair">repair</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="save" data-param="save" min="0" max="1" step="0.01" value="0">
+            <label for="save">save</label>
+        </span>
+        <span style="display: flex;flex-direction: column;">
+            <input type="range" name="" id="fun" data-param="fun" min="0" max="1" step="0.01" value="0">
+            <label for="fun">fun</label>
+        </span>
+    </div>
+   
+    <button id="get-one-perk-btn">get one perk</button>
+    <button id="get-build-btn">get build</button>
+    <script src="client.js"></script>
+</body>
+</html>

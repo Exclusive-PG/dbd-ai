@@ -1,0 +1,16 @@
+.build_render{
+    min-height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.build_render img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid #af14f4;
+    margin-left: 50px;
+}
