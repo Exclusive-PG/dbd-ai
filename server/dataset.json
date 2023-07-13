@@ -1,0 +1,119 @@
+[
+  {
+    "input": { "stealth": 0, "chase": 0.8, "heal": 0.4, "aura" : 0, "repair": 0.2, "save": 0.5, "fun": 0.15 },
+    "output": { "adrenaline": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 1, "aura" : 0, "repair": 0, "save": 0.5, "fun": 0 },
+    "output": { "botanyKnowledge": 1 }
+  },
+  {
+    "input": { "stealth": 1, "chase": 0.1, "heal": 0, "aura" : 1, "repair": 0, "save": 0.5, "fun": 0 },
+    "output": { "distortion": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.6, "heal": 0, "aura" : 0, "repair": 0, "save": 0.5, "fun": 0.05 },
+    "output": { "deadHard": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0.5, "aura" : 0.78, "repair": 0, "save": 0.1, "fun": 0 },
+    "output": { "empathicConnection": 1 }
+  },
+  {
+    "input": { "stealth": 0.75, "chase": 0.33, "heal": 0, "aura" : 0, "repair": 0, "save": 0.7, "fun": 0 },
+    "output": { "lightweight": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.66, "heal": 0, "aura" : 0, "repair": 0, "save": 0.9, "fun": 0.15 },
+    "output": { "madeForThis": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.4, "heal": 0, "aura" : 0, "repair": 0, "save": 0.5, "fun": 0.2 },
+    "output": { "bloodRush": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.5, "heal": 0.2, "aura" : 0, "repair": 0, "save": 0.5, "fun": 0.15 },
+    "output": { "bloodRush": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.55, "heal": 0, "aura" : 0, "repair": 0, "save": 0.55, "fun": 0.2},
+    "output": { "hope": 1 }
+  },
+  {
+    "input": { "stealth": 0.1, "chase": 0.46, "heal": 0, "aura" : 0, "repair": 0, "save": 0.45, "fun": 0 },
+    "output": { "lithe": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.1, "heal": 0, "aura" : 0, "repair": 0.33, "save": 0, "fun": 0.05},
+    "output": { "quickGambit": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0.72, "aura" : 0, "repair": 0, "save": 0.8, "fun": 0 },
+    "output": { "selfCare": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0.48, "aura" : 0, "repair": 0, "save": 0.33, "fun": 0 },
+    "output": { "solidarity": 1 }
+  },
+  {
+    "input": { "stealth": 0.01, "chase": 0.89, "heal": 0, "aura" : 1, "repair": 0, "save": 0.9, "fun": 0 },
+    "output": { "windowsOfOpportunity": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 1, "repair": 0, "save": 0.05, "fun": 0 },
+    "output": { "aftercare": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.45, "heal": 0, "aura" : 1, "repair": 0, "save": 0.33, "fun": 0 },
+    "output": { "alert": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.45, "heal": 0, "aura" : 1, "repair": 0, "save": 0.33, "fun": 0 },
+    "output": { "alert": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0, "repair": 0, "save": 0.67, "fun": 0.6 },
+    "output": { "backgroundPlayer": 1 }
+  },
+  {
+    "input": { "stealth": 0.1, "chase": 0.25, "heal": 0, "aura" : 0, "repair": 0, "save": 0.3, "fun": 0 },
+    "output": { "balancedLanding": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0.63, "repair": 0, "save": 0.3, "fun": 0.25 },
+    "output": { "boilOver": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0.9, "repair": 0, "save": 0.7, "fun": 0 },
+    "output": { "bond": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.15, "heal": 0, "aura" : 0, "repair": 0, "save": 0.15, "fun": 0 },
+    "output": { "boonDarkTheory": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0.05, "heal": 0, "aura" : 0, "repair": 0, "save": 0.85, "fun": 0 },
+    "output": { "borrowedTime": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0, "repair": 0, "save": 0.4, "fun": 0.9 },
+    "output": { "breakdown": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 1, "repair": 0, "save": 0.8, "fun": 0 },
+    "output": { "kindred": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0, "repair": 0, "save": 0.8, "fun": 1 },
+    "output": { "powerStruggle": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0, "repair": 0.75, "save": 0.1, "fun": 0 },
+    "output": { "proveThyself": 1 }
+  },
+  {
+    "input": { "stealth": 0, "chase": 0, "heal": 0, "aura" : 0, "repair": 0, "save": 0.8, "fun": 1 },
+    "output": { "flipFlop": 1 }
+  }
+  
+]
