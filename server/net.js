@@ -1,7 +1,7 @@
 const { NeuralNetwork } = require("brain.js");
 const fs = require("fs");
 const net = new NeuralNetwork({ log: true,iterations:5000 });
-const PATH = "./server/dataset.json";
+const PATH = "./dataset.json";
 const trainingData = readDataset();
 
 function saveDataset(dataset, path = PATH) {
